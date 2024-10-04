@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <div style="display: flex; align-items: center;">
-		<!-- HTML 5 -->
 	<div style="width: 50px;">
 		<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50" height="50" viewBox="0 0 48 48">
 			<path fill="#E65100" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z"></path>
