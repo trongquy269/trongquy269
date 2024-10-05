@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FE428E&vCenter=true&width=344&lines=Hi+there%2C+I'm+Wyne" alt="Hi there" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FE428E&vCenter=true&width=344&height=100&lines=Hi+there%2C+I'm+Wyne" alt="Hi there" />
 </div>
 
 ---
