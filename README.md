@@ -34,17 +34,23 @@
   </div>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
+<div align="center">
   <!-- Column 1 -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=trongquy269&show_icons=true&theme=radical&line_height=40&card_width=450" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=trongquy269&theme=radical&card_width=450" />
+  <div style="display: inline-block; margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=trongquy269&show_icons=true&theme=radical&line_height=40&card_width=500" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=trongquy269&theme=radical&card_width=500" />
   </div>
-  
+
   <!-- Column 2 -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongquy269&langs_count=5&theme=radical&card_width=300" />
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="300px" />
   </div>
 </div>
+
+| Stats                                                                 | Streak                                                                |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trongquy269&show_icons=true&theme=radical&line_height=40&card_width=500) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trongquy269&theme=radical&card_width=500) |
+| Most Used Languages                                                    | About Me GIF                                                          |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trongquy269&langs_count=5&theme=radical&card_width=300) | ![About Me](https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true) |
 
