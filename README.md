@@ -10,8 +10,15 @@
 - Strengths: Front-end technology and Back-end web application development
 - Proficiency in HTML, CSS, JavaScript
 - Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model
-- Thorough understanding of React.js and it score principles
+- Thorough understanding of React.js and its core principles
 - Experience with popular React.js workflows (such as Redux)
+- Experience with data structure libraries
+- Familiarity with RESTful APIs
+- Knowledge about JavaScript (React.js, Vue.js, Node.js), SQL, NoSQL, JSON, API, Docker
+- Proficient use of source code management tools: GIT
+- Proficiency in operating systems: Linux (Ubuntu, Fedora), Windows
+- Ability to learn apply new technology quickly
+- Current working location: Can Tho, Viet Nam
 
 ### :computer: Tech Stack
 <div align="center">
