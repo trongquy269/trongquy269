@@ -6,7 +6,12 @@
 
 ---
 
-### :man_technologist: About Me:
+### :man_technologist: About Me
+- Strengths: Front-end technology and Back-end web application development
+- Proficiency in HTML, CSS, JavaScript
+- Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model
+- Thorough understanding of React.js and it score principles
+- Experience with popular React.js workflows (such as Redux)
 
 ### :computer: Tech Stack
 <div align="center">
