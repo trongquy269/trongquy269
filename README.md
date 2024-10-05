@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FE428E&vCenter=true&width=344&height=100&lines=Hi+there%2C+I'm+Wyne" alt="Hi there" />
+  <p>I am a passionate M.Tech CS student at Can Tho University, driven by a curiosity for technology and a love for creating. My journey involves delving into the world of computer science, exploring new ideas and technologies, and applying them to real-life situations.</p>
 </div>
 
 ---
