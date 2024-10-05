@@ -23,5 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trongquy269&show_icons=true&theme=radical&line_height=40)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trongquy269&langs_count=5&theme=radical)
+<div style="align: center;>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trongquy269&show_icons=true&theme=radical&line_height=40)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trongquy269&langs_count=5&theme=radical)
+</div>
