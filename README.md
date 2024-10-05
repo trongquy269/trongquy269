@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FE428E&width=344&lines=Hi+there%2C+I'm+Wyne" alt="Hi there" />
 </div>
 
-## Tech Stack
+# Tech Stack
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -26,6 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+## Github stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trongquy269&show_icons=true&theme=radical&line_height=40&card_width=500" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongquy269&langs_count=5&theme=radical&card_width=300" />
