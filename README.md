@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## Github stats
+# Github stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trongquy269&show_icons=true&theme=radical&line_height=40&card_width=500" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongquy269&langs_count=5&theme=radical&card_width=300" />
