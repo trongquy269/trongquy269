@@ -29,4 +29,5 @@
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=trongquy269&theme=radical&card_width=500" />
+  <img src="https://github.com/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alter="About Me GIF" width="180px" />
 </div>
