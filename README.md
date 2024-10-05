@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FE428E&width=344&lines=Hi+there%2C+I'm+Wyne" alt="Hi there" />
 </div>
 
------
+--------
 
 # :woman_technologist: About Me:
 
