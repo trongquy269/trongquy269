@@ -15,9 +15,9 @@
 - Experience with popular React.js workflows (such as Redux)
 - Experience with data structure libraries
 - Familiarity with RESTful APIs
-- Knowledge about JavaScript (React.js, Vue.js, Node.js), SQL, NoSQL, JSON, API, Docker
+- Knowledge about JavaScript (React.js, Next.js, Vue.js, Node.js), SQL, NoSQL, JSON, API, Docker
 - Proficient use of source code management tools: GIT
-- Proficiency in operating systems: Linux (Ubuntu, Fedora), Windows
+- Proficiency in operating systems: Linux (Ubuntu, Fedora, Arch), Windows, MacOS
 - Ability to learn apply new technology quickly
 - Current working location: Can Tho, Viet Nam
 
